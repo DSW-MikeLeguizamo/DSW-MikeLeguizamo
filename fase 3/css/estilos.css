@@ -1,0 +1,16 @@
+*{
+    margin: 5px;
+    border-radius: 10px;
+}
+header{
+    background-color:turquoise;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer{
+    text-align: center;
+    background-color: rgb(4, 19, 4);
+    color: white;
+    padding: 10px;
+}
